@@ -1,0 +1,19 @@
+高震豪个人学术主页｜GitHub Pages 上传说明
+
+一、上传文件
+1. 打开仓库：https://github.com/Gaozh39/Gaozh39.github.io
+2. 点击“添加文件 / Add file”→“上传文件 / Upload files”。
+3. 将本文件夹内的 index.html 和 images 文件夹一起拖入上传区域。
+4. 在页面下方点击“提交更改 / Commit changes”。
+
+二、开启 GitHub Pages
+1. 进入仓库“设置 / Settings”。
+2. 左侧选择“页面 / Pages”。
+3. Source 选择“Deploy from a branch”。
+4. Branch 选择“main”，文件夹选择“/ (root)”，点击 Save。
+5. 等待数分钟后访问：https://gaozh39.github.io/
+
+三、注意事项
+- index.html 必须位于仓库最外层，不能再套一层文件夹。
+- images 文件夹必须与 index.html 同级。
+- 更新网页时，重新上传并覆盖对应文件即可。
